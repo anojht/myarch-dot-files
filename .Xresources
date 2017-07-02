@@ -1,0 +1,5 @@
+xterm*termName: xterm-256color
+xTerm*locale: true
+Xft.dpi: 192
+URxvt.font: xft:Iosevka Nerd Font:size=12
+URxvt.scrollBar: false
